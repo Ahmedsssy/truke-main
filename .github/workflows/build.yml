@@ -15,7 +15,7 @@ jobs:
       - name: Setup Gradle
         uses: gradle/actions/setup-gradle@v4
         with:
-          gradle-version: '8.10'
+          gradle-version: 'release'
           
       - name: Build with Gradle
         run: gradle assembleDebug
