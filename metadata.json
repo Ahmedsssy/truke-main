@@ -1,0 +1,6 @@
+{
+  "name": "شاحنتي - إدارة الشحنات والمصاريف",
+  "description": "تطبيق محلي متكامل لإدارة شحنات البضائع والمصاريف والإيرادات وحساب الأرباح والخسائر لشركات النقل الصغيرة وأصحاب السيارات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
